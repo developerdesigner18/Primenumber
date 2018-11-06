@@ -1,1 +1,1 @@
-# Primenumber of 0-100000 value
+# Sum of 0-100000 Prime number PHP.
